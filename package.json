@@ -1,0 +1,20 @@
+{
+  "name": "hello-joe",
+  "version": "1.0.0",
+  "description": "A simple REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.3",
+    "supertest": "^6.1.3"
+  }
+}
