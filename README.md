@@ -14,7 +14,7 @@ A simple containerized NodeJS based API with Sqlite3
 ## Download, Build, Test, Run
 
     $ git clone https://github.com/dougclarke/nodejs-hello-api.git 
-    $ cd app
+    $ cd nodejs-hello-api
     $ docker-compose build
     $ docker-compose run test
     $ docker-compose up api`
